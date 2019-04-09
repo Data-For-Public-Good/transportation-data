@@ -1,0 +1,504 @@
+route_id,dir_id,route_dir,route_shor,route_long,color
+B100,0,B100_0,B100,Mill Basin - Midwood,B933AD
+B100,1,B100_1,B100,Mill Basin - Midwood,B933AD
+B103,0,B103_0,B103,Canarsie - Downtown Brooklyn Ltd,FAA61A
+B103,1,B103_1,B103,Canarsie - Downtown Brooklyn Ltd,FAA61A
+BX23,0,BX23_0,Bx23,Pelham Bay - Co-Op City,B933AD
+BX23,1,BX23_1,Bx23,Pelham Bay - Co-Op City,B933AD
+Q06,0,Q06_0,Q6,Sutphin Boulevard,B933AD
+Q06,1,Q06_1,Q6,Sutphin Boulevard,B933AD
+Q07,0,Q07_0,Q7,Rockaway Boulevard,6CBE45
+Q07,1,Q07_1,Q7,Rockaway Boulevard,6CBE45
+Q08,0,Q08_0,Q8,101St Avenue,B933AD
+Q08,1,Q08_1,Q8,101St Avenue,B933AD
+Q09,0,Q09_0,Q9,Lincoln Street,B933AD
+Q09,1,Q09_1,Q9,Lincoln Street,B933AD
+Q100,0,Q100_0,Q100,Rikers Island - Long Island City,FAA61A
+Q100,1,Q100_1,Q100,Rikers Island - Long Island City,FAA61A
+Q101,0,Q101_0,Q101,Steinway Street,6CBE45
+Q101,1,Q101_1,Q101,Steinway Street,6CBE45
+Q102,0,Q102_0,Q102,31 St - Roosevelt Island,006CB7
+Q102,1,Q102_1,Q102,31 St - Roosevelt Island,006CB7
+Q103,0,Q103_0,Q103,27 Ave - Borden Ave,EE352E
+Q103,1,Q103_1,Q103,27 Ave - Borden Ave,EE352E
+Q104,0,Q104_0,Q104,Broadway - 48 Street,B933AD
+Q104,1,Q104_1,Q104,Broadway - 48 Street,B933AD
+Q10,0,Q10_0,Q10,Kew Gardens - Jfk Airport,FAA61A
+Q10,1,Q10_1,Q10,Kew Gardens - Jfk Airport,FAA61A
+Q110,0,Q110_0,Q110,Jamaica Ave - Hempstead Ave,006CB7
+Q110,1,Q110_1,Q110,Jamaica Ave - Hempstead Ave,006CB7
+Q111,0,Q111_0,Q111,Guy Brewer Blvd - 147Th Ave,EE352E
+Q111,1,Q111_1,Q111,Guy Brewer Blvd - 147Th Ave,EE352E
+Q112,0,Q112_0,Q112,Liberty Ave,EE352E
+Q112,1,Q112_1,Q112,Liberty Ave,EE352E
+Q113,0,Q113_0,Q113,Guy Brewer Blvd - Nassau Expwy Ltd,EE352E
+Q113,1,Q113_1,Q113,Guy Brewer Blvd - Nassau Expwy Ltd,EE352E
+Q114,0,Q114_0,Q114,Guy Brewer Blvd Ltd - Rockaway Tpk,FAA61A
+Q114,1,Q114_1,Q114,Guy Brewer Blvd Ltd - Rockaway Tpk,FAA61A
+Q11,0,Q11_0,Q11,Woodhaven Blvd,6CBE45
+Q11,1,Q11_1,Q11,Woodhaven Blvd,6CBE45
+Q18,0,Q18_0,Q18,30 Ave - 58 St - 65 Pl,00AEEF
+Q18,1,Q18_1,Q18,30 Ave - 58 St - 65 Pl,00AEEF
+Q19,0,Q19_0,Q19,Astoria Blvd,00AEEF
+Q19,1,Q19_1,Q19,Astoria Blvd,00AEEF
+Q21,0,Q21_0,Q21,Cross Bay - Woodhaven Blvds,006CB7
+Q21,1,Q21_1,Q21,Cross Bay - Woodhaven Blvds,006CB7
+Q22,0,Q22_0,Q22,Rockaway Beach Blvd - Beach Channel Dr,EE352E
+Q22,1,Q22_1,Q22,Rockaway Beach Blvd - Beach Channel Dr,EE352E
+Q23,0,Q23_0,Q23,108 Street,FAA61A
+Q23,1,Q23_1,Q23,108 Street,FAA61A
+Q25,0,Q25_0,Q25,127 Street - Kissena Bl - Parsons Bl,00AEEF
+Q25,1,Q25_1,Q25,127 Street - Kissena Bl - Parsons Bl,00AEEF
+Q29,0,Q29_0,Q29,Dry Harbor Road - 80 Street,00AEEF
+Q29,1,Q29_1,Q29,Dry Harbor Road - 80 Street,00AEEF
+Q33,0,Q33_0,Q33,82 St/83 St - 95 St & Ditmars Blvd,EE352E
+Q33,1,Q33_1,Q33,82 St/83 St - 95 St & Ditmars Blvd,EE352E
+Q34,0,Q34_0,Q34,Willets Pt Bl - Kissena Bl - Parsons Bl,FAA61A
+Q34,1,Q34_1,Q34,Willets Pt Bl - Kissena Bl - Parsons Bl,FAA61A
+Q35,0,Q35_0,Q35,Rockaway Park - Brooklyn College,006CB7
+Q35,1,Q35_1,Q35,Rockaway Park - Brooklyn College,006CB7
+Q37,0,Q37_0,Q37,111Th Street,00AEEF
+Q37,1,Q37_1,Q37,111Th Street,00AEEF
+Q38,0,Q38_0,Q38,Eliot Ave - Penelope Ave,EE352E
+Q38,1,Q38_1,Q38,Eliot Ave - Penelope Ave,EE352E
+Q39,0,Q39_0,Q39,48 Ave - 58 St - Forest Ave,B933AD
+Q39,1,Q39_1,Q39,48 Ave - 58 St - Forest Ave,B933AD
+Q40,0,Q40_0,Q40,142Nd Street,6CBE45
+Q40,1,Q40_1,Q40,142Nd Street,6CBE45
+Q41,0,Q41_0,Q41,127Th Street - 109Th Avenue,B933AD
+Q41,1,Q41_1,Q41,127Th Street - 109Th Avenue,B933AD
+Q47,0,Q47_0,Q47,Atlas Mall - Laguardia Main Term,6CBE45
+Q47,1,Q47_1,Q47,Atlas Mall - Laguardia Main Term,6CBE45
+Q49,0,Q49_0,Q49,35 Ave,006CB7
+Q49,1,Q49_1,Q49,35 Ave,006CB7
+Q50,0,Q50_0,Q50,Co-Op City/Pelham Bay - Flushing,FAA61A
+Q50,1,Q50_1,Q50,Co-Op City/Pelham Bay - Flushing,FAA61A
+Q52+,0,Q52+_0,Q52-SBS,Elmhurst - Arverne,FAA61A
+Q52+,1,Q52+_1,Q52-SBS,Elmhurst - Arverne,FAA61A
+Q53+,0,Q53+_0,Q53-SBS,Woodside - Rockaway Park,FAA61A
+Q53+,1,Q53+_1,Q53-SBS,Woodside - Rockaway Park,FAA61A
+Q60,0,Q60_0,Q60,Queens Boulevard,EE352E
+Q60,1,Q60_1,Q60,Queens Boulevard,EE352E
+Q64,0,Q64_0,Q64,Jewel Ave,EE352E
+Q64,1,Q64_1,Q64,Jewel Ave,EE352E
+Q65,0,Q65_0,Q65,College Point Bl - 164 St,00AEEF
+Q65,1,Q65_1,Q65,College Point Bl - 164 St,00AEEF
+Q66,0,Q66_0,Q66,Northern Blvd/Queens Plaza S,EE352E
+Q66,1,Q66_1,Q66,Northern Blvd/Queens Plaza S,EE352E
+Q67,0,Q67_0,Q67,Borden Ave - 69 Street,FAA61A
+Q67,1,Q67_1,Q67,Borden Ave - 69 Street,FAA61A
+Q69,0,Q69_0,Q69,21 St - Ditmars Blvd,00AEEF
+Q69,1,Q69_1,Q69,21 St - Ditmars Blvd,00AEEF
+Q70+,0,Q70+_0,Q70-SBS,LaGuardia Link,EE352E
+Q72,0,Q72_0,Q72,Junction Blvd - Laguardia Main Term,B933AD
+Q72,1,Q72_1,Q72,Junction Blvd - Laguardia Main Term,B933AD
+B11,0,B11_0,B11,Sunset Park - Midwood,006CB7
+B11,1,B11_1,B11,Sunset Park - Midwood,006CB7
+B12,0,B12_0,B12,Lefferts Gardens - East New York,6CBE45
+B12,1,B12_1,B12,Lefferts Gardens - East New York,6CBE45
+B13,0,B13_0,B13,Spring Creek - Wyckoff Hospital,FAA61A
+B13,1,B13_1,B13,Spring Creek - Wyckoff Hospital,FAA61A
+B14,0,B14_0,B14,Spring Creek - Crown Heights,00AEEF
+B14,1,B14_1,B14,Spring Creek - Crown Heights,00AEEF
+B15,0,B15_0,B15,Bedford Stuyvesant - JFK Airport,B933AD
+B15,1,B15_1,B15,Bedford Stuyvesant - JFK Airport,B933AD
+B16,0,B16_0,B16,Bay Ridge - Lefferts Gardens,FAA61A
+B16,1,B16_1,B16,Bay Ridge - Lefferts Gardens,FAA61A
+B17,0,B17_0,B17,Canarsie - Crown Heights,B933AD
+B17,1,B17_1,B17,Canarsie - Crown Heights,B933AD
+B1,0,B1_0,B1,Bay Ridge - Manhattan Beach,00AEEF
+B1,1,B1_1,B1,Bay Ridge - Manhattan Beach,00AEEF
+B20,0,B20_0,B20,Ridgewood - Spring Creek,6CBE45
+B20,1,B20_1,B20,Ridgewood - Spring Creek,6CBE45
+B24,0,B24_0,B24,Williamsburg - Greenpoint,FAA61A
+B24,1,B24_1,B24,Williamsburg - Greenpoint,FAA61A
+B25,0,B25_0,B25,Dwntn Bklyn & DUMBO - Broadway Junction,6CBE45
+B25,1,B25_1,B25,Dwntn Bklyn & DUMBO - Broadway Junction,6CBE45
+B26,0,B26_0,B26,Downtown Brooklyn - Ridgewood,006CB7
+B26,1,B26_1,B26,Downtown Brooklyn - Ridgewood,006CB7
+B2,0,B2_0,B2,Kings Hwy Station - Kings Plaza,006CB7
+B2,1,B2_1,B2,Kings Hwy Station - Kings Plaza,006CB7
+B31,0,B31_0,B31,Gerritsen Beach - Kings Hwy Station,FAA61A
+B31,1,B31_1,B31,Gerritsen Beach - Kings Hwy Station,FAA61A
+B32,0,B32_0,B32,Williamsburg - Long Island City,006CB7
+B32,1,B32_1,B32,Williamsburg - Long Island City,006CB7
+B35,0,B35_0,B35,Brownsville - Sunset Park,EE352E
+B35,1,B35_1,B35,Brownsville - Sunset Park,EE352E
+B36,0,B36_0,B36,Sheepshead Bay - Coney Island,FAA61A
+B36,1,B36_1,B36,Sheepshead Bay - Coney Island,FAA61A
+B37,0,B37_0,B37,Downtown Brooklyn - Bay Ridge,B933AD
+B37,1,B37_1,B37,Downtown Brooklyn - Bay Ridge,B933AD
+B38,0,B38_0,B38,Ridgewood - Downtown Brooklyn,00AEEF
+B38,1,B38_1,B38,Ridgewood - Downtown Brooklyn,00AEEF
+B39,0,B39_0,B39,Williamsburg Bridge Plaza - Lower East Side,00AEEF
+B39,1,B39_1,B39,Williamsburg Bridge Plaza - Lower East Side,00AEEF
+B3,0,B3_0,B3,Bensonhurst - Bergen Beach,EE352E
+B3,1,B3_1,B3,Bensonhurst - Bergen Beach,EE352E
+B41,0,B41_0,B41,Kings Plaza - Downtown Brooklyn,006CB7
+B41,1,B41_1,B41,Kings Plaza - Downtown Brooklyn,006CB7
+B42,0,B42_0,B42,Canarsie Pier - Rockaway Parkway Station,006CB7
+B42,1,B42_1,B42,Canarsie Pier - Rockaway Parkway Station,006CB7
+B43,0,B43_0,B43,Greenpoint - Lefferts Gardens,EE352E
+B43,1,B43_1,B43,Greenpoint - Lefferts Gardens,EE352E
+B44+,0,B44+_0,B44-SBS,Sheepshead Bay - Williamsburg,B933AD
+B44+,1,B44+_1,B44-SBS,Sheepshead Bay - Williamsburg,B933AD
+B44,0,B44_0,B44,Sheepshead Bay - Williamsburg,B933AD
+B44,1,B44_1,B44,Sheepshead Bay - Williamsburg,B933AD
+B45,0,B45_0,B45,Downtown Brooklyn - Crown Heights,EE352E
+B45,1,B45_1,B45,Downtown Brooklyn - Crown Heights,EE352E
+B46+,0,B46+_0,B46-SBS,Kings Plaza - Williamsburg,6CBE45
+B46+,1,B46+_1,B46-SBS,Kings Plaza - Williamsburg,6CBE45
+B46,0,B46_0,B46,Kings Plaza - Williamsburg,6CBE45
+B46,1,B46_1,B46,Kings Plaza - Williamsburg,6CBE45
+B47,0,B47_0,B47,Kings Plaza - Bedford-Stuyvesant,FAA61A
+B47,1,B47_1,B47,Kings Plaza - Bedford-Stuyvesant,FAA61A
+B48,0,B48_0,B48,Lefferts Gardens - Greenpoint,6CBE45
+B48,1,B48_1,B48,Lefferts Gardens - Greenpoint,6CBE45
+B49,0,B49_0,B49,Manhattan Beach - Bedford-Stuyvesant,EE352E
+B49,1,B49_1,B49,Manhattan Beach - Bedford-Stuyvesant,EE352E
+B4,0,B4_0,B4,Bay Ridge - Sheepshead Bay,6CBE45
+B4,1,B4_1,B4,Bay Ridge - Sheepshead Bay,6CBE45
+B52,0,B52_0,B52,Downtown Brooklyn - Ridgewood,EE352E
+B52,1,B52_1,B52,Downtown Brooklyn - Ridgewood,EE352E
+B54,0,B54_0,B54,Downtown Brooklyn - Ridgewood,6CBE45
+B54,1,B54_1,B54,Downtown Brooklyn - Ridgewood,6CBE45
+B57,0,B57_0,B57,Gowanus - Maspeth,EE352E
+B57,1,B57_1,B57,Gowanus - Maspeth,EE352E
+B60,0,B60_0,B60,Williamsburg - Canarsie,B933AD
+B60,1,B60_1,B60,Williamsburg - Canarsie,B933AD
+B61,0,B61_0,B61,Park Slope - Downtown Brooklyn,6CBE45
+B61,1,B61_1,B61,Park Slope - Downtown Brooklyn,6CBE45
+B62,0,B62_0,B62,Downtown Brooklyn - Long Island City,00AEEF
+B62,1,B62_1,B62,Downtown Brooklyn - Long Island City,00AEEF
+B63,0,B63_0,B63,Bay Ridge - Cobble Hill,006CB7
+B63,1,B63_1,B63,Bay Ridge - Cobble Hill,006CB7
+B64,0,B64_0,B64,Bay Ridge - Coney Island,6CBE45
+B64,1,B64_1,B64,Bay Ridge - Coney Island,6CBE45
+B65,0,B65_0,B65,Downtown Brooklyn - Crown Heights,00AEEF
+B65,1,B65_1,B65,Downtown Brooklyn - Crown Heights,00AEEF
+B67,0,B67_0,B67,Brooklyn Navy Yard - Kensington,EE352E
+B67,1,B67_1,B67,Brooklyn Navy Yard - Kensington,EE352E
+B68,0,B68_0,B68,Coney Island - Windsor Terrace,EE352E
+B68,1,B68_1,B68,Coney Island - Windsor Terrace,EE352E
+B69,0,B69_0,B69,Downtown Brooklyn - Kensington,006CB7
+B69,1,B69_1,B69,Downtown Brooklyn - Kensington,006CB7
+B6,0,B6_0,B6,Bath Beach - East New York,EE352E
+B6,1,B6_1,B6,Bath Beach - East New York,EE352E
+B70,0,B70_0,B70,Dyker Heights - Sunset Park,B933AD
+B70,1,B70_1,B70,Dyker Heights - Sunset Park,B933AD
+B74,1,B74_1,B74,Sea Gate - Stillwell Av,EE352E
+B7,0,B7_0,B7,Midwood - Bedford-Stuyvesant,EE352E
+B7,1,B7_1,B7,Midwood - Bedford-Stuyvesant,EE352E
+B82+,0,B82+_0,B82-SBS,Coney Island -spring Creek Towers,6CBE45
+B82+,1,B82+_1,B82-SBS,Coney Island -spring Creek Towers,6CBE45
+B82,0,B82_0,B82,Coney Island - Spring Creek Towers,6CBE45
+B82,1,B82_1,B82,Coney Island - Spring Creek Towers,6CBE45
+B83,0,B83_0,B83,Spring Creek - Broadway Junction,EE352E
+B83,1,B83_1,B83,Spring Creek - Broadway Junction,EE352E
+B84,0,B84_0,B84,Spring Creek-New Lots,006CB7
+B84,1,B84_1,B84,Spring Creek-New Lots,006CB7
+B8,0,B8_0,B8,Dyker Heights - East Flatbush,FAA61A
+B8,1,B8_1,B8,Dyker Heights - East Flatbush,FAA61A
+B9,0,B9_0,B9,Bay Ridge - Kings Plaza,EE352E
+B9,1,B9_1,B9,Bay Ridge - Kings Plaza,EE352E
+Q24,0,Q24_0,Q24,Broadway Junction - Jamaica,00AEEF
+Q24,1,Q24_1,Q24,Broadway Junction - Jamaica,00AEEF
+Q54,0,Q54_0,Q54,Williamsburg - Jamaica,B933AD
+Q54,1,Q54_1,Q54,Williamsburg - Jamaica,B933AD
+Q55,0,Q55_0,Q55,Ridgewood - Richmond Hill,EE352E
+Q55,1,Q55_1,Q55,Ridgewood - Richmond Hill,EE352E
+Q56,0,Q56_0,Q56,Broadway Junction - Jamaica,B933AD
+Q56,1,Q56_1,Q56,Broadway Junction - Jamaica,B933AD
+Q58,0,Q58_0,Q58,Ridgewood - Flushing,6CBE45
+Q58,1,Q58_1,Q58,Ridgewood - Flushing,6CBE45
+Q59,0,Q59_0,Q59,Williamsburg - Rego Park,FAA61A
+Q59,1,Q59_1,Q59,Williamsburg - Rego Park,FAA61A
+BX10,0,BX10_0,Bx10,Riverdale - Norwood,006CB7
+BX10,1,BX10_1,Bx10,Riverdale - Norwood,006CB7
+BX11,0,BX11_0,Bx11,West Farms Rd - Southern Blvd & GW Bridge,FAA61A
+BX11,1,BX11_1,Bx11,West Farms Rd - Southern Blvd & GW Bridge,FAA61A
+BX12+,0,BX12+_0,Bx12-SBS,Pelham Pkwy - Fordham Rd,006CB7
+BX12+,1,BX12+_1,Bx12-SBS,Pelham Pkwy - Fordham Rd,006CB7
+BX12,0,BX12_0,Bx12,Pelham Pkwy - Fordham Rd,006CB7
+BX12,1,BX12_1,Bx12,Pelham Pkwy - Fordham Rd,006CB7
+BX13,0,BX13_0,Bx13,George Washington Bridge - Yankee Stadium,006CB7
+BX13,1,BX13_1,Bx13,George Washington Bridge - Yankee Stadium,006CB7
+BX15,0,BX15_0,Bx15,Fordham Plaza - Manhattanville,FAA61A
+BX15,1,BX15_1,Bx15,Fordham Plaza - Manhattanville,FAA61A
+BX16,0,BX16_0,Bx16,Pelham - Norwood,00AEEF
+BX16,1,BX16_1,Bx16,Pelham - Norwood,00AEEF
+BX17,0,BX17_0,Bx17,Fordham Plaza - Port Morris,006CB7
+BX17,1,BX17_1,Bx17,Fordham Plaza - Port Morris,006CB7
+BX18,0,BX18_0,Bx18,Tremont - Morris Heights,6CBE45
+BX18,1,BX18_1,Bx18,Tremont - Morris Heights,6CBE45
+BX19,0,BX19_0,Bx19,NY Botanical Garden - Riverbank Park,B933AD
+BX19,1,BX19_1,Bx19,NY Botanical Garden - Riverbank Park,B933AD
+BX1,0,BX1_0,Bx1,Riverdale - Mott Haven,00AEEF
+BX1,1,BX1_1,Bx1,Riverdale - Mott Haven,00AEEF
+BX20,0,BX20_0,Bx20,Riverdale - Inwood,00AEEF
+BX20,1,BX20_1,Bx20,Riverdale - Inwood,00AEEF
+BX21,0,BX21_0,Bx21,Westchester Sq - Mott Haven,6CBE45
+BX21,1,BX21_1,Bx21,Westchester Sq - Mott Haven,6CBE45
+BX22,0,BX22_0,Bx22,Bedford Park - Castle Hill,EE352E
+BX22,1,BX22_1,Bx22,Bedford Park - Castle Hill,EE352E
+BX24,0,BX24_0,Bx24,Country Club - Hutchinson Metro Center,6CBE45
+BX24,1,BX24_1,Bx24,Country Club - Hutchinson Metro Center,6CBE45
+BX26,0,BX26_0,Bx26,Co-op City Section 5 - Bedford Park,FAA61A
+BX26,1,BX26_1,Bx26,Co-op City Section 5 - Bedford Park,FAA61A
+BX27,0,BX27_0,Bx27,Clasons Pt - West Farms Rd & Southern Blvd,00AEEF
+BX27,1,BX27_1,Bx27,Clasons Pt - West Farms Rd & Southern Blvd,00AEEF
+BX28,0,BX28_0,Bx28,Co-op City Section 5 - Fordham Center,00AEEF
+BX28,1,BX28_1,Bx28,Co-op City Section 5 - Fordham Center,00AEEF
+BX29,0,BX29_0,Bx29,City Island - Co-op City Bay Plaza,00AEEF
+BX29,1,BX29_1,Bx29,City Island - Co-op City Bay Plaza,00AEEF
+BX2,0,BX2_0,Bx2,Kingsbridge Heights - Mott Haven,FAA61A
+BX2,1,BX2_1,Bx2,Kingsbridge Heights - Mott Haven,FAA61A
+BX30,0,BX30_0,Bx30,Co-op City Section 5 - Norwood,EE352E
+BX30,1,BX30_1,Bx30,Co-op City Section 5 - Norwood,EE352E
+BX31,0,BX31_0,Bx31,Woodlawn - Westchester Sq,EE352E
+BX31,1,BX31_1,Bx31,Woodlawn - Westchester Sq,EE352E
+BX32,0,BX32_0,Bx32,Kingsbridge VA Hospital - Mott Haven,6CBE45
+BX32,1,BX32_1,Bx32,Kingsbridge VA Hospital - Mott Haven,6CBE45
+BX33,0,BX33_0,Bx33,Port Morris - Harlem,6CBE45
+BX33,1,BX33_1,Bx33,Port Morris - Harlem,6CBE45
+BX34,0,BX34_0,Bx34,Woodlawn - Fordham Center,B933AD
+BX34,1,BX34_1,Bx34,Woodlawn - Fordham Center,B933AD
+BX35,0,BX35_0,Bx35,West Farms Rd & Southern Blvd - GW Bridge,00AEEF
+BX35,1,BX35_1,Bx35,West Farms Rd & Southern Blvd - GW Bridge,00AEEF
+BX36,0,BX36_0,Bx36,Soundview - George Washington Bridge,B933AD
+BX36,1,BX36_1,Bx36,Soundview - George Washington Bridge,B933AD
+BX38,0,BX38_0,Bx38,Co-op City Bay Plaza - Norwood,FAA61A
+BX38,1,BX38_1,Bx38,Co-op City Bay Plaza - Norwood,FAA61A
+BX39,0,BX39_0,Bx39,Wakefield - Clasons Pt,FAA61A
+BX39,1,BX39_1,Bx39,Wakefield - Clasons Pt,FAA61A
+BX3,0,BX3_0,Bx3,Riverdale - George Washington Bridge,EE352E
+BX3,1,BX3_1,Bx3,Riverdale - George Washington Bridge,EE352E
+BX40,0,BX40_0,Bx40,Throgs Neck - River Park Towers,006CB7
+BX40,1,BX40_1,Bx40,Throgs Neck - River Park Towers,006CB7
+BX41+,0,BX41+_0,Bx41-SBS,Williamsbridge - The Hub,EE352E
+BX41+,1,BX41+_1,Bx41-SBS,Williamsbridge - The Hub,EE352E
+BX41,0,BX41_0,Bx41,Williamsbridge - The Hub,EE352E
+BX41,1,BX41_1,Bx41,Williamsbridge - The Hub,EE352E
+BX42,0,BX42_0,Bx42,Throgs Neck - River Park Towers,EE352E
+BX42,1,BX42_1,Bx42,Throgs Neck - River Park Towers,EE352E
+BX46,0,BX46_0,Bx46,Prospect Av - Westchester Av / Hunts Point Market,EE352E
+BX46,1,BX46_1,Bx46,Prospect Av - Westchester Av / Hunts Point Market,EE352E
+BX4A,0,BX4A_0,Bx4A,Westchester Sq - The Hub,FAA61A
+BX4A,1,BX4A_1,Bx4A,Westchester Sq - The Hub,FAA61A
+BX4,0,BX4_0,Bx4,Westchester Sq - The Hub,FAA61A
+BX4,1,BX4_1,Bx4,Westchester Sq - The Hub,FAA61A
+BX5,0,BX5_0,Bx5,Pelham Bay - West Farms Rd & Southern Blvd,EE352E
+BX5,1,BX5_1,Bx5,Pelham Bay - West Farms Rd & Southern Blvd,EE352E
+BX6+,0,BX6+_0,Bx6-SBS,Hunts Point - Riverside Dr,EE352E
+BX6+,1,BX6+_1,Bx6-SBS,Hunts Point - Riverside Dr,EE352E
+BX6,0,BX6_0,Bx6,Hunts Point - Riverside Dr,EE352E
+BX6,1,BX6_1,Bx6,Hunts Point - Riverside Dr,EE352E
+BX7,0,BX7_0,Bx7,Riverdale - Washington Heights,EE352E
+BX7,1,BX7_1,Bx7,Riverdale - Washington Heights,EE352E
+BX8,0,BX8_0,Bx8,Williamsbridge - Locust Point,FAA61A
+BX8,1,BX8_1,Bx8,Williamsbridge - Locust Point,FAA61A
+BX9,0,BX9_0,Bx9,Riverdale - West Farms Sq,FAA61A
+BX9,1,BX9_1,Bx9,Riverdale - West Farms Sq,FAA61A
+M100,0,M100_0,M100,Inwood - East Harlem,00AEEF
+M100,1,M100_1,M100,Inwood - East Harlem,00AEEF
+M101,0,M101_0,M101,East Village - Harlem,FAA61A
+M101,1,M101_1,M101,East Village - Harlem,FAA61A
+M102,0,M102_0,M102,Harlem - East Village,FAA61A
+M102,1,M102_1,M102,Harlem - East Village,FAA61A
+M103,0,M103_0,M103,East Harlem - City Hall,B933AD
+M103,1,M103_1,M103,East Harlem - City Hall,B933AD
+M104,0,M104_0,M104,West Harlem - Times Square,B933AD
+M104,1,M104_1,M104,West Harlem - Times Square,B933AD
+M106,0,M106_0,M106,East Harlem - West Side,6CBE45
+M106,1,M106_1,M106,East Harlem - West Side,6CBE45
+M10,0,M10_0,M10,Harlem - Columbus Circle,006CB7
+M10,1,M10_1,M10,Harlem - Columbus Circle,006CB7
+M116,0,M116_0,M116,West Side - East Harlem,6CBE45
+M116,1,M116_1,M116,West Side - East Harlem,6CBE45
+M11,0,M11_0,M11,Riverbank Park & Harlem - West Village,FAA61A
+M11,1,M11_1,M11,Riverbank Park & Harlem - West Village,FAA61A
+M12,0,M12_0,M12,Midtown West - West Village,006CB7
+M12,1,M12_1,M12,Midtown West - West Village,006CB7
+M14A,0,M14A_0,M14A,Lower East Side - Abingdon Sq,6CBE45
+M14A,1,M14A_1,M14A,Lower East Side - Abingdon Sq,6CBE45
+M14D,0,M14D_0,M14D,Lower East Side - Chelsea Piers,6CBE45
+M14D,1,M14D_1,M14D,Lower East Side - Chelsea Piers,6CBE45
+M15+,0,M15+_0,M15-SBS,East Harlem - South Ferry,006CB7
+M15+,1,M15+_1,M15-SBS,East Harlem - South Ferry,006CB7
+M15,0,M15_0,M15,East Harlem - South Ferry,006CB7
+M15,1,M15_1,M15,East Harlem - South Ferry,006CB7
+M1,0,M1_0,M1,Harlem - East Village,EE352E
+M1,1,M1_1,M1,Harlem - East Village,EE352E
+M20,0,M20_0,M20,Lincoln Center - South Ferry,EE352E
+M20,1,M20_1,M20,Lincoln Center - South Ferry,EE352E
+M21,0,M21_0,M21,Lower East Side - West Village LTD,FAA61A
+M21,1,M21_1,M21,Lower East Side - West Village LTD,FAA61A
+M22,0,M22_0,M22,Lower East Side - Battery Park City,00AEEF
+M22,1,M22_1,M22,Lower East Side - Battery Park City,00AEEF
+M23+,0,M23+_0,M23-SBS,Chelsea Piers - East Side,B933AD
+M23+,1,M23+_1,M23-SBS,Chelsea Piers - East Side,B933AD
+M2,0,M2_0,M2,Washington Heights - East Village,B933AD
+M2,1,M2_1,M2,Washington Heights - East Village,B933AD
+M31,0,M31_0,M31,Yorkville - Clinton,B933AD
+M31,1,M31_1,M31,Yorkville - Clinton,B933AD
+M34+,0,M34+_0,M34-SBS,East Side - Javits Center,006CB7
+M34+,1,M34+_1,M34-SBS,East Side - Javits Center,006CB7
+M34A+,0,M34A+_0,M34A-SBS,Waterside - Port Authority Terminal,006CB7
+M34A+,1,M34A+_1,M34A-SBS,Waterside - Port Authority Terminal,006CB7
+M35,0,M35_0,M35,Ward's Island - East Harlem,FAA61A
+M35,1,M35_1,M35,Ward's Island - East Harlem,FAA61A
+M3,0,M3_0,M3,Fort George - East Village,B933AD
+M3,1,M3_1,M3,Fort George - East Village,B933AD
+M42,0,M42_0,M42,United Nations - W 42 St Pier,EE352E
+M42,1,M42_1,M42,United Nations - W 42 St Pier,EE352E
+M4,0,M4_0,M4,The Cloisters - 32 St,00AEEF
+M4,1,M4_1,M4,The Cloisters - 32 St,00AEEF
+M50,0,M50_0,M50,W 42 St Pier - East Side,6CBE45
+M50,1,M50_1,M50,W 42 St Pier - East Side,6CBE45
+M55,0,M55_0,M55,W 44 St  - South Ferry,6CBE45
+M55,1,M55_1,M55,W 44 St  - South Ferry,6CBE45
+M57,0,M57_0,M57,East Side - West Side,00AEEF
+M57,1,M57_1,M57,East Side - West Side,00AEEF
+M5,0,M5_0,M5,George Washington Bridge - 31 St & 6 Av,EE352E
+M5,1,M5_1,M5,George Washington Bridge - 31 St & 6 Av,EE352E
+M60+,0,M60+_0,M60-SBS,LaGuardia Airport - West Side,EE352E
+M60+,1,M60+_1,M60-SBS,LaGuardia Airport - West Side,EE352E
+M66,0,M66_0,M66,East Side - Lincoln Center,FAA61A
+M66,1,M66_1,M66,East Side - Lincoln Center,FAA61A
+M72,0,M72_0,M72,East Side - West Side,6CBE45
+M72,1,M72_1,M72,East Side - West Side,6CBE45
+M79+,0,M79+_0,M79-SBS,Yorkville - West Side,EE352E
+M79+,1,M79+_1,M79-SBS,Yorkville - West Side,EE352E
+M7,0,M7_0,M7,Harlem - 14th Street,00AEEF
+M7,1,M7_1,M7,Harlem - 14th Street,00AEEF
+M86+,0,M86+_0,M86-SBS,Yorkville - West Side,FAA61A
+M86+,1,M86+_1,M86-SBS,Yorkville - West Side,FAA61A
+M8,0,M8_0,M8,West Village - East Village LTD,00AEEF
+M8,1,M8_1,M8,West Village - East Village LTD,00AEEF
+M96,0,M96_0,M96,East Side - West Side,6CBE45
+M96,1,M96_1,M96,East Side - West Side,6CBE45
+M98,0,M98_0,M98,Washington Heights - Upper East Side,EE352E
+M98,1,M98_1,M98,Washington Heights - Upper East Side,EE352E
+M9,0,M9_0,M9,Battery Park City - Kips Bay,B933AD
+M9,1,M9_1,M9,Battery Park City - Kips Bay,B933AD
+Q12,0,Q12_0,Q12,Little Neck - Flushing,EE352E
+Q12,1,Q12_1,Q12,Little Neck - Flushing,EE352E
+Q13,0,Q13_0,Q13,Fort Totten - Flushing,EE352E
+Q13,1,Q13_1,Q13,Fort Totten - Flushing,EE352E
+Q15A,0,Q15A_0,Q15A,Flushing - Beechhurst / Whitestone,FAA61A
+Q15A,1,Q15A_1,Q15A,Flushing - Beechhurst / Whitestone,FAA61A
+Q15,0,Q15_0,Q15,Flushing - Beechhurst,FAA61A
+Q15,1,Q15_1,Q15,Flushing - Beechhurst,FAA61A
+Q16,0,Q16_0,Q16,Fort Totten - Flushing,EE352E
+Q16,1,Q16_1,Q16,Fort Totten - Flushing,EE352E
+Q17,0,Q17_0,Q17,Flushing - Jamaica,EE352E
+Q17,1,Q17_1,Q17,Flushing - Jamaica,EE352E
+Q1,0,Q1_0,Q1,Queens Village / Bellerose - Jamaica,FAA61A
+Q1,1,Q1_1,Q1,Queens Village / Bellerose - Jamaica,FAA61A
+Q20A,0,Q20A_0,Q20A,College Point - Jamaica,006CB7
+Q20A,1,Q20A_1,Q20A,College Point - Jamaica,006CB7
+Q20B,0,Q20B_0,Q20B,College Point - Jamaica,006CB7
+Q20B,1,Q20B_1,Q20B,College Point - Jamaica,006CB7
+Q26,0,Q26_0,Q26,Fresh Meadows - Flushing (Part-time),6CBE45
+Q26,1,Q26_1,Q26,Fresh Meadows - Flushing (Part-time),6CBE45
+Q27,0,Q27_0,Q27,Cambria Heights - Flushing,EE352E
+Q27,1,Q27_1,Q27,Cambria Heights - Flushing,EE352E
+Q28,0,Q28_0,Q28,Bayside - Flushing,EE352E
+Q28,1,Q28_1,Q28,Bayside - Flushing,EE352E
+Q2,0,Q2_0,Q2,Queens Village - Jamaica,6CBE45
+Q2,1,Q2_1,Q2,Queens Village - Jamaica,6CBE45
+Q30,0,Q30_0,Q30,Little Neck or Queensborough Community College - Jamaica,FAA61A
+Q30,1,Q30_1,Q30,Little Neck or Queensborough Community College - Jamaica,FAA61A
+Q31,0,Q31_0,Q31,Bayside - Jamaica,FAA61A
+Q31,1,Q31_1,Q31,Bayside - Jamaica,FAA61A
+Q32,0,Q32_0,Q32,Jackson Heights - Penn Station,00AEEF
+Q32,1,Q32_1,Q32,Jackson Heights - Penn Station,00AEEF
+Q36,0,Q36_0,Q36,Floral Park or Little Neck - Jamaica,FAA61A
+Q36,1,Q36_1,Q36,Floral Park or Little Neck - Jamaica,FAA61A
+Q3,0,Q3_0,Q3,Jamaica - JFK Airport,00AEEF
+Q3,1,Q3_1,Q3,Jamaica - JFK Airport,00AEEF
+Q42,0,Q42_0,Q42,Addeslieigh Park - Jamaica,00AEEF
+Q42,1,Q42_1,Q42,Addeslieigh Park - Jamaica,00AEEF
+Q43,0,Q43_0,Q43,Floral Park - Jamaica,EE352E
+Q43,1,Q43_1,Q43,Floral Park - Jamaica,EE352E
+Q44+,0,Q44+_0,Q44-SBS,Bronx Zoo - Jamaica,EE352E
+Q44+,1,Q44+_1,Q44-SBS,Bronx Zoo - Jamaica,EE352E
+Q46,0,Q46_0,Q46,Glen Oaks - Kew Gardens,EE352E
+Q46,1,Q46_1,Q46,Glen Oaks - Kew Gardens,EE352E
+Q48,0,Q48_0,Q48,Flushing - LaGuardia Airport,006CB7
+Q48,1,Q48_1,Q48,Flushing - LaGuardia Airport,006CB7
+Q4,0,Q4_0,Q4,Cambria Heights - Jamaica,EE352E
+Q4,1,Q4_1,Q4,Cambria Heights - Jamaica,EE352E
+Q5,0,Q5_0,Q5,Rosedale - Jamaica,EE352E
+Q5,1,Q5_1,Q5,Rosedale - Jamaica,EE352E
+Q76,0,Q76_0,Q76,College Point - Jamaica,6CBE45
+Q76,1,Q76_1,Q76,College Point - Jamaica,6CBE45
+Q77,0,Q77_0,Q77,Laurelton - Jamaica,FAA61A
+Q77,1,Q77_1,Q77,Laurelton - Jamaica,FAA61A
+Q83,0,Q83_0,Q83,Cambria Heights - Jamaica,6CBE45
+Q83,1,Q83_1,Q83,Cambria Heights - Jamaica,6CBE45
+Q84,0,Q84_0,Q84,Laurelton - Jamaica,B933AD
+Q84,1,Q84_1,Q84,Laurelton - Jamaica,B933AD
+Q85,0,Q85_0,Q85,Rosedale - Jamaica,EE352E
+Q85,1,Q85_1,Q85,Rosedale - Jamaica,EE352E
+Q88,0,Q88_0,Q88,Elmhurst - Queens Village,FAA61A
+Q88,1,Q88_1,Q88,Elmhurst - Queens Village,FAA61A
+S40,0,S40_0,S40,St. George - Goethals Rd North,B933AD
+S40,1,S40_1,S40,St. George - Goethals Rd North,B933AD
+S42,0,S42_0,S42,St. George - Clyde Place,00AEEF
+S42,1,S42_1,S42,St. George - Clyde Place,00AEEF
+S44,0,S44_0,S44,St. George - Staten Island Mall,FAA61A
+S44,1,S44_1,S44,St. George - Staten Island Mall,FAA61A
+S46,0,S46_0,S46,St. George - West Shore Plaza,006CB7
+S46,1,S46_1,S46,St. George - West Shore Plaza,006CB7
+S48,0,S48_0,S48,St. George - Mariners Harbor,EE352E
+S48,1,S48_1,S48,St. George - Mariners Harbor,EE352E
+S51,0,S51_0,S51,St. George - West Shore Plaza,006CB7
+S51,1,S51_1,S51,St. George - West Shore Plaza,006CB7
+S52,0,S52_0,S52,St. George - Staten Island Univ. Hospital,B933AD
+S52,1,S52_1,S52,St. George - Staten Island Univ. Hospital,B933AD
+S53,0,S53_0,S53,Port Richmond - Bay Ridge,EE352E
+S53,1,S53_1,S53,Port Richmond - Bay Ridge,EE352E
+S54,0,S54_0,S54,West New Brighton - Eltingville,FAA61A
+S54,1,S54_1,S54,West New Brighton - Eltingville,FAA61A
+S55,0,S55_0,S55,Rossville - Staten Island Mall,FAA61A
+S55,1,S55_1,S55,Rossville - Staten Island Mall,FAA61A
+S56,0,S56_0,S56,Huguenot - Staten Island Mall,6CBE45
+S56,1,S56_1,S56,Huguenot - Staten Island Mall,6CBE45
+S57,0,S57_0,S57,Port Richmond - New Dorp,6CBE45
+S57,1,S57_1,S57,Port Richmond - New Dorp,6CBE45
+S59,0,S59_0,S59,Port Richmond - Tottenville,EE352E
+S59,1,S59_1,S59,Port Richmond - Tottenville,EE352E
+S61,0,S61_0,S61,St. George - Staten Island Mall,EE352E
+S61,1,S61_1,S61,St. George - Staten Island Mall,EE352E
+S62,0,S62_0,S62,St. George - Travis,B933AD
+S62,1,S62_1,S62,St. George - Travis,B933AD
+S66,0,S66_0,S66,St. George - Port Richmond,6CBE45
+S66,1,S66_1,S66,St. George - Port Richmond,6CBE45
+S74,0,S74_0,S74,St. George - Bricktown Mall,EE352E
+S74,1,S74_1,S74,St. George - Bricktown Mall,EE352E
+S76,0,S76_0,S76,St. George - Oakwood,B933AD
+S76,1,S76_1,S76,St. George - Oakwood,B933AD
+S78,0,S78_0,S78,St. George - Bricktown Mall,FAA61A
+S78,1,S78_1,S78,St. George - Bricktown Mall,FAA61A
+S79+,0,S79+_0,S79-SBS,Staten Island Mall - Bay Ridge,006CB7
+S79+,1,S79+_1,S79-SBS,Staten Island Mall - Bay Ridge,006CB7
+S81,1,S81_1,S81,St. George - Grant City LTD,006CB7
+S84,1,S84_1,S84,St. George - Bricktown Mall LTD,EE352E
+S86,1,S86_1,S86,St. George - Oakwood LTD,B933AD
+S89,0,S89_0,S89,Eltingville - Bayonne LTD,EE352E
+S89,1,S89_1,S89,Eltingville - Bayonne LTD,EE352E
+S90,0,S90_0,S90,St. George - Goethals Rd North LTD,B933AD
+S90,1,S90_1,S90,St. George - Goethals Rd North LTD,B933AD
+S91,0,S91_0,S91,St. George - Staten Island Mall LTD,EE352E
+S91,1,S91_1,S91,St. George - Staten Island Mall LTD,EE352E
+S92,0,S92_0,S92,St. George - Travis LTD,B933AD
+S92,1,S92_1,S92,St. George - Travis LTD,B933AD
+S93,0,S93_0,S93,College of Staten Island - Bay Ridge LTD,EE352E
+S93,1,S93_1,S93,College of Staten Island - Bay Ridge LTD,EE352E
+S94,0,S94_0,S94,St. George - Staten Island Mall LTD,FAA61A
+S94,1,S94_1,S94,St. George - Staten Island Mall LTD,FAA61A
+S96,0,S96_0,S96,St. George - West Shore Plaza LTD,006CB7
+S96,1,S96_1,S96,St. George - West Shore Plaza LTD,006CB7
+S98,0,S98_0,S98,St. George - Mariners Harbor LTD,EE352E
+S98,1,S98_1,S98,St. George - Mariners Harbor LTD,EE352E
